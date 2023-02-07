@@ -1,4 +1,6 @@
-# Java-Tetris-Game
+# Tetris.
+
+Simple game on Java Swing.
 
 Uses Java 17.
 
